@@ -31,7 +31,7 @@
     width: 1400px;
     height: 60px;
     background-color: #373a3c;
-    ;
+    position: fixed;
 }
 
 .xbox {
@@ -189,4 +189,14 @@ margin-left: 14px;
 main .video1 {
     margin-left: 255px;
     margin-top: 75px;
+}
+.lower {
+    width: 414px;
+    height: 86px;
+    margin-left: -10px;
+}
+
+.img2 {
+    margin-top: -100px;
+    margin-left: 800px;
 }
