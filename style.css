@@ -20,7 +20,7 @@
 }
 
 .container {
-    margin-left: 210px;
+    margin-left: 240px;
     width: 1400px;
     height: 4000px;
     background-color: #fff;
@@ -144,4 +144,49 @@
 
 .header2 button {
     margin-top: 25px;
+}
+
+.container main {
+    width: 1400px;
+height: 2556px;
+background: #fff;
+margin-top: 280px;
+font-family: "HelveticaNeueBold", sans-serif;
+font-weight: 400;
+font-size: 36px;
+color: #435766;
+}
+
+.container main span {
+    margin-left: 554px;
+    margin-top: 10px;
+}
+
+.container main .button1 {
+    width: 170px;
+height: 52px;
+background-color: #8dd83d;
+outline: none;
+border: 0;
+color: #fff;
+border-radius: 4px;
+}
+
+.container main .button2 {
+    width: 235px;
+height: 52px;
+background-color: #686C6F;
+outline: none;
+border: 0;
+border-radius: 4px;
+color: #fff;
+margin-left: 14px;
+}
+.container main div {
+    margin-left: 491px;
+    margin-top: 200px;
+}
+main .video1 {
+    margin-left: 255px;
+    margin-top: 75px;
 }
