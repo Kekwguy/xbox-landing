@@ -89,6 +89,59 @@
     margin-left: 575px;
     margin-top: -55px;
 }
+
 .header2 img {
     margin-top: -4px;
+}
+
+.header2 div {
+    font-family: "HelveticaNeueBold", sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #fff;
+    margin-top: -456px;
+    margin-left: 831px;
+}
+
+.header2 .Mask {
+    margin-top: -600px;
+    margin-bottom: 19px;
+}
+
+.header2 div span {
+    font-family: "HelveticaNeueBold", sans-serif;
+    width: 158px;
+    height: 17px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+    padding-bottom: -10px;
+}
+
+.header2 .button1 {
+    margin-left: 831px;
+    width: 136px;
+    height: 38px;
+    background-color: #8DD83D;
+    outline: none;
+    box-shadow: none;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.header2 .button2 {
+    margin-left: 13px;
+    width: 136px;
+    height: 38px;
+    background-color: #8dd83d;
+    outline: none;
+    box-shadow: none;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.header2 button {
+    margin-top: 25px;
 }
